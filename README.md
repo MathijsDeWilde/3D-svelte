@@ -1,2 +1,2 @@
 # 3D-svelte
-A library for Threlte
+A playground for Threlte
